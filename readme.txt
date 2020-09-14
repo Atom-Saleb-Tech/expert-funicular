@@ -1,6 +1,6 @@
-=== Reggie! Level Editor (Release 3) ===
+=== Zee (Release 3) ===
 
-Advanced level editor for New Super Mario Bros. Wii, created by Treeki and
+Advanced level editor for New Super Mario Bros. Wii, created by Grooki and
 Tempus using Python, PyQt and Wii.py.
 
 Homepage: http://www.rvlution.net/reggie/
@@ -86,5 +86,5 @@ Interface Icons - Yusuke Kamiyamane (http://www.pinvoke.com)
 
 === Licensing: ===
 
-Reggie! is released under the GNU General Public License v2.
+Zee is released under the Mit License v2.
 See the license file in the distribution for information.
